@@ -1,0 +1,6 @@
+Auflagerkräfte:
+Ra: 7564.5
+Rb: 7564.5
+Schnittgrößen:
+Mx: 7564.5
+Qx: 123.0

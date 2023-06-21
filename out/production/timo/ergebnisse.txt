@@ -1,0 +1,6 @@
+Auflagerkraefte:
+Ra: 0.5
+Rb: 0.5
+Schnittgroessen:
+Mx: 0.5
+Qx: 1.0
